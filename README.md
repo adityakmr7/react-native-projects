@@ -15,3 +15,6 @@
 
 ## Food Delivery App
 [Food Delivery App url](https://github.com/adityakmr7/food-delivery-app-ui/tree/master)
+
+## Recipe App
+[Recipe App Url](https://github.com/adityakmr7/Recipe-App)
