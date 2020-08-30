@@ -23,4 +23,4 @@
 [Expo Camera](https://github.com/adityakmr7/react-native-expo-camera-tutorial)
 
 ## React Native Navigation 
-[Expo Camera](https://github.com/adityakmr7/react-navigation-tutorial)
+[React Native Navigation](https://github.com/adityakmr7/react-navigation-tutorial)
