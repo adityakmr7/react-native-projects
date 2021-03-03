@@ -24,3 +24,8 @@
 
 ## React Native Navigation 
 [React Native Navigation](https://github.com/adityakmr7/react-navigation-tutorial)
+
+
+## React Native Video Player
+[React Native Navigation](https://github.com/adityakmr7/react-native-video-player)
+
