@@ -32,6 +32,9 @@
 ## React Native Fashion 
 [React Native Fashion App](https://github.com/adityakmr7/react-native-fashion)
 
+## React Native Daivjnaya App
+[Daivjnaya-brahmin](https://github.com/adityakmr7/daivjnaya-brahmin)
+  - App Has features like, create profile , sell item,  matrimony section, profile section 
 
 # Tutorial React Native app
 <hr/>
@@ -50,5 +53,7 @@
 ## React Native Notification Tutorial
 [React Native Notification](https://github.com/adityakmr7/react-native-notification-tutorial)
 
+## Spotify Clone UI
+[React Native Spotify Clone](https://github.com/adityakmr7/spotify-clone)
 
 
